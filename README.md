@@ -1,2 +1,2 @@
-# Basic_Type_Game
+# Basic Web Typing Game
 A simple web typing game. 
